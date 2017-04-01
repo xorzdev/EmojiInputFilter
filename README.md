@@ -96,7 +96,7 @@ editText.setFilters(new InputFilter[]{new EmojiInputFilter(this)});
 
 ## 上图
 
-![微信图片_20170401155316.jpg](http://upload-images.jianshu.io/upload_images/4336778-17376ecea232d1fa.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![微信图片_20170401155316.jpg](https://github.com/gavinxxxxxx/EmojiInputFilter/blob/master/art/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170401155316.jpg)
 
 ## 完整代码已上传至github
 https://github.com/gavinxxxxxx/EmojiInputFilter
