@@ -35,6 +35,9 @@ public class MainActivity extends AppCompatActivity {
         editText.setFilters(inputFilters);
 
         initEmoji();
+
+
+        editText.setText("@心里有鬼丶丶丶");
     }
 
     /**
